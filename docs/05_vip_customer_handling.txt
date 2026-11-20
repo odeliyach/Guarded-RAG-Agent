@@ -1,0 +1,7 @@
+ACCESS: manager
+TITLE: VIP Customer Handling and Exceptions (managers only)
+
+VIP customers (balance above 2,000,000 NIS) are assigned a dedicated private banker.
+Managers may waive account fees for VIP customers up to 3,000 NIS per year without further approval.
+Managers may approve exceptions to the refund window for VIP customers, up to 60 days.
+Exception approvals must be logged in the exceptions register with the manager's employee number.

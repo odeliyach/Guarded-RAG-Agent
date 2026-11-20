@@ -1,0 +1,11 @@
+ACCESS: manager
+TITLE: Complaint Case 2291
+
+Customer name: Dana Levi
+ID number: 305421876
+Phone: 054-7712345
+Email: dana.levi@example.com
+Card number: 4580 1234 5678 9010
+Complaint: The customer was charged twice for the same transaction on 3 March.
+Resolution: The duplicate charge of 1,250 NIS was refunded to the card on 10 March.
+The customer was informed by phone and confirmed receipt.

@@ -1,0 +1,34 @@
+ACCESS: public
+TITLE: Account Types Guide
+
+Basic Checking Account.
+The basic checking account is designed for everyday use. It includes a debit card, online banking, and
+a mobile app. The monthly fee is 12 NIS. There is no minimum balance requirement. Customers can make
+unlimited transfers between their own accounts. Transfers to other banks may carry a fee of 2 NIS each.
+Overdraft is available up to 3,000 NIS for customers with a stable salary deposit for at least 6 months.
+
+Premium Checking Account.
+The premium account is intended for customers with higher activity. The monthly fee is 35 NIS, which is waived
+if the customer keeps an average balance above 40,000 NIS. It includes free transfers to other banks, a
+dedicated phone line, and travel insurance for trips up to 30 days. Overdraft is available up to 20,000 NIS.
+Premium customers receive a reduced interest rate on personal loans, lowered by 0.5 percent.
+
+Student Account.
+The student account is free of monthly fees for up to 4 years, for customers aged 18 to 30 who present proof
+of enrollment. It includes a debit card and online banking. Overdraft is not available on student accounts,
+but students can apply for a student loan of up to 20,000 NIS with a reduced interest rate.
+
+Savings Account.
+The savings account pays interest on the balance, calculated daily and paid monthly. Withdrawals are allowed
+up to 4 times per month without a fee. Additional withdrawals carry a fee of 10 NIS each. Early closing of
+a fixed-term deposit results in the loss of accumulated interest for the current period.
+
+Joint Account.
+A joint account can be opened by two adults. Both holders have full rights over the account. Closing a joint
+account requires the signature of both holders, unless a court order states otherwise. Each holder is
+individually responsible for any overdraft balance.
+
+Business Account.
+Business accounts are available for registered companies and sole proprietors. The monthly fee is 60 NIS
+and includes up to 100 transactions. Additional transactions are charged at 0.7 NIS each. Business customers
+have access to payroll services, bulk transfers, and a dedicated business banker.

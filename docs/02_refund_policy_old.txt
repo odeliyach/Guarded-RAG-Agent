@@ -1,0 +1,6 @@
+ACCESS: public
+TITLE: Refund Policy (OLD, effective until December 2025, kept for archive)
+
+Customers may request a refund within 14 days of the transaction date.
+Refunds for card payments are returned within 10 business days.
+Requests above 2,000 NIS require approval from a branch manager.

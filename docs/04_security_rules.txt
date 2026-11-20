@@ -1,0 +1,11 @@
+ACCESS: staff
+TITLE: Employee Information Security Rules
+
+Employees must lock their workstation whenever they leave their desk.
+Customer data may never be copied to personal devices or sent to personal email accounts.
+Passwords must be at least 14 characters and changed every 90 days.
+Multi-factor authentication is mandatory for all remote access to internal systems.
+Suspected phishing emails must be reported to the security team within 1 hour using the Report Phishing button.
+USB storage devices are blocked on all workstations except by written approval from the CISO.
+Security incidents are classified into three levels: low, medium, and critical.
+A critical incident must be escalated to the CISO immediately, at any hour.

@@ -1,0 +1,9 @@
+ACCESS: public
+TITLE: Refund Policy (current, effective January 2026)
+
+Customers may request a refund within 30 days of the transaction date.
+Refunds for card payments are returned to the original card within 5 to 7 business days.
+Refunds for bank transfers are returned within 3 business days.
+Fees for premium account services are not refundable after 14 days.
+A refund request must include the transaction reference number and the reason for the request.
+Requests above 5,000 NIS require approval from a branch manager.

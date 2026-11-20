@@ -1,0 +1,11 @@
+ACCESS: staff
+TITLE: Personal Loan Approval Process
+
+Step 1: The customer submits a loan application with proof of income for the last 3 months.
+Step 2: The system runs a credit check. Applications with a credit score below 600 are automatically sent to manual review.
+Step 3: Loans up to 50,000 NIS can be approved by a branch banker.
+Step 4: Loans between 50,000 and 250,000 NIS require approval from a regional credit committee.
+Step 5: Loans above 250,000 NIS require approval from the head office risk department.
+The standard decision time is 3 business days. Product code LN-4471 refers to the fixed-rate personal loan,
+and product code LN-4472 refers to the variable-rate personal loan.
+Customers who are self-employed must also provide the last 2 annual tax assessments.
